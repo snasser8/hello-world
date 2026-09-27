@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hi! My name is Sarah Nasser. I'm a Computer Science student at Eastern Michigan University. 
